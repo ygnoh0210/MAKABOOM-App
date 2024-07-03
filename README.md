@@ -11,7 +11,6 @@ lazy loading 방식을 적용하여 페이지 별로 관리함.
 
 Firebase 계정
 firebase.console에서 관리
-makaboomappdev@gmail.com	password : makaboom2019
 
 Test Account 
 -yeogyeong@makaboom.com	password : maka0210
